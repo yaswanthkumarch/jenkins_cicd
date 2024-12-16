@@ -34,12 +34,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- JavaMail dependency for sending and reading emails -->
-        <dependency>
-            <groupId>com.sun.mail</groupId>
-            <artifactId>javax.mail</artifactId>
-            <version>1.6.2</version>
-        </dependency>
+      
 
     </dependencies>
 
